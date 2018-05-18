@@ -1,1 +1,1 @@
-# Ster
+# Guns & Roses
