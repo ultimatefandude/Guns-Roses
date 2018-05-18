@@ -1,0 +1,31 @@
+body {
+  background: lightred;
+}
+p {
+  color: black;
+  text-align: left;
+  font-family: cursive;
+  font-size: 14px;
+}
+h1 {
+  font-weight: bold;
+}
+a {
+  color: black;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+img {
+  float: center;
+  width: 250px;
+  margin: 10px;
+  border-color:dark darkseagreen;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+.hippy {
+  color: rgb(195,230,255);
+  font-family: sans-serif;
+  font-size: 12px; 
+}
